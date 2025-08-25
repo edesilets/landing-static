@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "wrangler": "^3.78.10"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "ship": "wrangler deploy"
+  }
+}
